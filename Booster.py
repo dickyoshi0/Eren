@@ -412,4 +412,4 @@ async def booster_view(ctx):
     view = BoosterManager(ctx.author)
     view.message = await ctx.send(embed=get_booster_panel_embed(ctx.author), view=view)
 
-bot.run("tokem")
+bot.run("token")
