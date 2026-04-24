@@ -1,2 +1,0 @@
-# Eren
-Gay
